@@ -120,6 +120,7 @@
   "delete_role_are_you_sure": "Adakah anda pasti ingin memadam peranan \"{name}\"? Tindakan ini tidak dapat dibatalkan.",
   "desc": "desc",
   "description": "Penerangan",
+  "deselect": "Deselect",
   "dialog_beginning": "Permulaan bagi tetingkap dialog",
   "discard_changes": "Buang Perubahan",
   "display_name": "Paparkan Nama",
