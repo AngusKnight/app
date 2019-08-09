@@ -120,6 +120,7 @@
   "delete_role_are_you_sure": "Вы уверены, что хотите удалить роль \"{имя}\"? Это действие не может быть отменено.",
   "desc": "desc",
   "description": "Описание",
+  "deselect": "Deselect",
   "dialog_beginning": "Начало диалогового окна.",
   "discard_changes": "Отменить изменения",
   "display_name": "Отображаемое имя",
