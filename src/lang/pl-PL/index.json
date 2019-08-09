@@ -120,6 +120,7 @@
   "delete_role_are_you_sure": "Na pewno chcesz usunąć rolę \"{name}\"? Tej akcji nie będzie można cofnąć.",
   "desc": "desc",
   "description": "Opis",
+  "deselect": "Deselect",
   "dialog_beginning": "Początek okna dialogowego.",
   "discard_changes": "Odrzuć zmiany.",
   "display_name": "Wyświetlana nazwa",
