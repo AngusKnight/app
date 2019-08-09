@@ -120,6 +120,7 @@
   "delete_role_are_you_sure": "Är du säker på att du vill radera rollen \"{name}\"? Den här åtgärden kan inte ångras.",
   "desc": "desc",
   "description": "Description",
+  "deselect": "Deselect",
   "dialog_beginning": "Beginning of dialog window.",
   "discard_changes": "Discard Changes",
   "display_name": "Display Name",
