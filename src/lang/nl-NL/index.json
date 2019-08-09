@@ -120,6 +120,7 @@
   "delete_role_are_you_sure": "Weet je zeker dat je de {role} rol wilt verwijderen? Dit kan niet ongedaan gemaakt worden.",
   "desc": "desc",
   "description": "Beschrijving",
+  "deselect": "Deselect",
   "dialog_beginning": "Start van het dialoog scherm.",
   "discard_changes": "Wijzigingen ongedaan maken",
   "display_name": "Getoonde naam",
