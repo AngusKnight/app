@@ -120,6 +120,7 @@
   "delete_role_are_you_sure": "Tem certeza que deseja deletar a função \"{name}\"? Esta ação não pode ser mudada.",
   "desc": "desc",
   "description": "Descrição",
+  "deselect": "Deselect",
   "dialog_beginning": "Começo da janela de diálogo.",
   "discard_changes": "Descartar Mudanças",
   "display_name": "Mostrar Nome",
