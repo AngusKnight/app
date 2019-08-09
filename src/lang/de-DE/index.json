@@ -120,6 +120,7 @@
   "delete_role_are_you_sure": "Soll die Rolle \"{name}\" wirklich gelöscht werden? Diese Aktion kann nicht rückgängig gemacht werden.",
   "desc": "absteigend",
   "description": "Beschreibung",
+  "deselect": "Deselect",
   "dialog_beginning": "Start des Dialogfensters.",
   "discard_changes": "Änderungen verwerfen",
   "display_name": "Anzeigename",
