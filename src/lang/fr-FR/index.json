@@ -120,6 +120,7 @@
   "delete_role_are_you_sure": "Êtes-vous sûr de vouloir supprimer le rôle « {name} » ? Cette action ne peut pas être annulée !",
   "desc": "descendant",
   "description": "Description",
+  "deselect": "Deselect",
   "dialog_beginning": "Début de la fenêtre de dialogue.",
   "discard_changes": "Annuler les modifications",
   "display_name": "Afficher le nom",
