@@ -120,6 +120,7 @@
   "delete_role_are_you_sure": "Opravdu chcete smazat roli \"{name}\"? Tuto akci nelze vrátit zpět.",
   "desc": "desc",
   "description": "Popis",
+  "deselect": "Deselect",
   "dialog_beginning": "Začátek dialogového okna.",
   "discard_changes": "Ano, odejít bez uložení",
   "display_name": "Zobrazit jméno",
