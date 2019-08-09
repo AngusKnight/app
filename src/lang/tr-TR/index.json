@@ -120,6 +120,7 @@
   "delete_role_are_you_sure": "\"{name}\" rolünü silmek istediğinize emin misiniz? Bu işlem geri alınamaz.",
   "desc": "azalan",
   "description": "Açıklama",
+  "deselect": "Deselect",
   "dialog_beginning": "Diyalog Penceresi Başlangıcı (*)",
   "discard_changes": "Değişiklikleri İptal Et",
   "display_name": "Görünen İsim",
