@@ -157,6 +157,7 @@
     "103": "Utente inattivo",
     "106": "Nome utente e / o password errati",
     "107": "Utente non trovato",
+    "112": "Wrong OTP",
     "-1": "Impossibile raggiungere l'API"
   },
   "esc_cancel": "Fuga annullerà e chiuderà la finestra.",
@@ -319,6 +320,7 @@
   "optional": "Opzionale",
   "options": "Opzioni",
   "other": "Altro",
+  "otp": "One-Time Password",
   "page_not_found": "Pagina non trovata",
   "page_not_found_body": "La pagina che stai cercando non sembra esistere.",
   "password": "Parola d'ordine",
