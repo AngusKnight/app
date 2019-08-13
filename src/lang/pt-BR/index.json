@@ -157,6 +157,7 @@
     "103": "Usuário inativo",
     "106": "Nome de usuário e/ou senha inválidos",
     "107": "Usuário não encontrado",
+    "112": "Wrong OTP",
     "-1": "Não foi possível alcançar a API"
   },
   "esc_cancel": "A tecla Esc irá cancelar e fechar a janela.",
@@ -319,6 +320,7 @@
   "optional": "Optional",
   "options": "Opções",
   "other": "Outro",
+  "otp": "One-Time Password",
   "page_not_found": "Página não encontrada",
   "page_not_found_body": "A página que você está procurando não existe.",
   "password": "Senha",
