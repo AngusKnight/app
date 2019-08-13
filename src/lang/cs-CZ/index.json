@@ -157,6 +157,7 @@
     "103": "Uživatel neaktivní",
     "106": "Nesprávné uživatelské jméno a/nebo heslo",
     "107": "Uživatel nenalezen",
+    "112": "Wrong OTP",
     "-1": "API je nedostupné"
   },
   "esc_cancel": "Klávesa Escape zruší a zavře okno.",
@@ -319,6 +320,7 @@
   "optional": "Nepovinné",
   "options": "Možnosti",
   "other": "Další",
+  "otp": "One-Time Password",
   "page_not_found": "Stránka nenalezena",
   "page_not_found_body": "Hledaná stránka nebyla nalezena.",
   "password": "Heslo",
