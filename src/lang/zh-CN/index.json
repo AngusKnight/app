@@ -157,6 +157,7 @@
     "103": "用户处于非活动状态",
     "106": "错误的用户名和/或密码",
     "107": "找不到用户",
+    "112": "Wrong OTP",
     "-1": "无法访问API"
   },
   "esc_cancel": "Escape 将取消并关闭窗口。",
@@ -319,6 +320,7 @@
   "optional": "Optional",
   "options": "选项",
   "other": "其他",
+  "otp": "One-Time Password",
   "page_not_found": "找不到页面",
   "page_not_found_body": "您正在寻找的页面似乎不存在。",
   "password": "密码",
