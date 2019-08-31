@@ -9,6 +9,7 @@ steps:
   inputs:
     Contents: |
      **
+     !.git/**/*
      !azure-pipelines.yml
      !config_example.js
     TargetFolder: '$(Build.ArtifactStagingDirectory)'
