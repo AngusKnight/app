@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/angusknight/bandicoot/_apis/build/status/directus-app?branchName=bandicoot)](https://dev.azure.com/angusknight/bandicoot/_build/latest?definitionId=10&branchName=bandicoot)
+
 <p align="center">
   <a href="https://directus.io" target="_blank" rel="noopener noreferrer">
     <img src="https://user-images.githubusercontent.com/522079/43096167-3a1b1118-8e86-11e8-9fb2-7b4e3b1368bc.png" width="140" alt="Directus Logo"/>
