@@ -5,9 +5,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- script: mv config_example.js config.js; sed -i "s|../_/|https://api.$APPURL/_/|" config.js
-  env:
-    APPURL: $(urlBaseName)
+- script: mv config_example.js config.js; sed -i "s|../_/|https://$APIHOSTNAME/_/|" config.js
 
 - task: CopyFiles@2
   inputs:
