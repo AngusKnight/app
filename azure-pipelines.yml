@@ -5,7 +5,11 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- script: mv config_example.js config.js; sed -i "s|../_/|https://$APIHOSTNAME/_/|" config.js
+- script: mv config_example.js config.js
+
+- script: sed -i "s|../_/|https://$APIHOSTNAME/_/|" config.js
+
+- script: sed -i "s|Directus Demo|Rise Community Art|" config.js
 
 - task: CopyFiles@2
   inputs:
